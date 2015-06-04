@@ -1,0 +1,29 @@
+7
+25
+2
+Mammal	fat_content(%)	protein_content(%)
+Bison	7.9	5.9
+Guinea_pig	3.9	8.1
+Dolphin	14.0	10.4
+Donkey	1.4	1.7
+Goat	4.1	3.4
+Deer	19.7	9.2
+Dog	8.3	9.5
+Yak	6.7	5.3
+Camel	3.4	3.5
+Cat	10.9	11.1
+Rabbit	13.1	7.1
+Llama	3.2	3.9
+Human	43.9	7.4
+Mule	1.8	2.0
+Elephant	5.0	4.0
+Horse	1.3	2.1
+Rat	12.6	12.3
+Reindeer	20.3	10.4
+Sheep	6.4	5.6
+Pig	5.1	6.6
+Fox	5.9	7.4
+Whale	42.3	10.9
+Polar_bear	31.0	10.2
+Zebra	4.8	3.0
+Seal	53.2	11.2
